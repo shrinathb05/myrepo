@@ -1,0 +1,2 @@
+this first sample file for testing
+and this is second git reset commit
